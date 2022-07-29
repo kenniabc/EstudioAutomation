@@ -12,6 +12,6 @@
     	<h1>¡Bienvenidos!</h1>
  
     	<!-- Used to display paragraph content -->
-    	<p>Esta es una pagina en HTML</p>
+    	<p>Esta es una pagina en HTML para subir al repository</p>
 </body>
  </html>
